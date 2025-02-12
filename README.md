@@ -35,7 +35,7 @@ This is a simple time tracking and productivity analytics Chrome extension. The 
 
 <p>
   <b align="center">Getting Started</b><br>
-  - Clone the repository: <code>git clone https://github.com/Kaushal2212/TIME-TRACKING-EXTENSION</code><br>
+  - Clone the repository: <code>git clone https://github.com/Kaushal2212/CHROME-TIME-TRACKING-EXTENSION</code><br>
   - Open Chrome and go to: <code>chrome://extensions/</code><br>
   - Enable **Developer Mode** and click **Load Unpacked**.<br>
   - Select the project folder to install the extension.<br>
